@@ -1,0 +1,12 @@
+devices:
+
+        DUT:
+                ipaddress: "10.29.41.91"
+                #ipaddress: "10.29.41.210"
+                credential: "default"
+                port: 22
+                hsm_slot: "0"
+credentials:
+        default:
+                username: "root"
+                password: "a"
