@@ -1,0 +1,25 @@
+#tutorial 2 :
+
+git status 
+git log
+
+#######
+
+#we want changes to file and later dosent want the changes
+
+git commit --amend -m 'modified commit'
+
+git commit --amend 
+---> wil open a file to edit
+------> gives the commit msg and files added
+
+
+git log --stat
+#wil show us the files that are changed within the commit.
+
+
+#git reflog
+
+git reset --hard
+
+
